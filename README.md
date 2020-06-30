@@ -27,9 +27,19 @@ You can install individual packages by using:
 sudo dnf install 'tex(hyperref.sty)'
 ```
 
-## Installing LaTex Workshop vscode extension
+## LaTex Workshop vscode extension
+
+### Install
 
 Open VS Code, go to the extensions panel and install the "LaTex workshop" extension.
+
+### Open pdf in browser
+
+Go to the TEX icon on the right, -> "View LaTex PDF" -> "View in web browser".
+
+### Building project
+
+The PDF of the project is built automatically on save by default.
 
 ## Installing `latexmk`
 
