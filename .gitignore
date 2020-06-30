@@ -4,4 +4,4 @@
 *.log
 *.synctex.gz
 *.pdf
-.vscode
+.vscode/*
